@@ -17,7 +17,7 @@
 	"setting.mindxlevel"		"92"
 	"setting.maxdxlevel"		"100"
 	"setting.dxlevel"		"100"
-	"setting.mat_viewportscale"		"0.8333"
+	"setting.mat_viewportscale"		"0.832000"
 	"setting.subversion"		"1"
 	"setting.version_advanced_video"		"1"
 	"setting.r_shadow_half_update_rate"		"0"
@@ -37,4 +37,6 @@
 	"setting.dota_ambient_creatures"		"1"
 	"setting.dota_ambient_creatures_pop"		"0"
 	"setting.mat_picmip"		"0"
+	"setting.gpu_mem_level"		"2"
+	"setting.mat_triplebuffered"		"1"
 }
