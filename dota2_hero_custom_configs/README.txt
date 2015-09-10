@@ -79,4 +79,4 @@ alias earth_spirit_mode "alias load_current_hero_nomod_binds execifexists dota2_
 
 5. Now load it in-game, by typing "earth_spirit_mode" in console.
 
-Optional: You can also add a "PlayUISound" that can play when you load the respective hero mode, if you want. You can type when you joined a lobby with the hero you want in console try "PlayUISound" and hit Tab to see available sound codes.
+Optional: You can also add a "PlaySound" that can play when you load the respective hero mode, if you want. You can type when you joined a lobby with the hero you want in console try "PlaySound" and hit Tab to see available sound codes.
