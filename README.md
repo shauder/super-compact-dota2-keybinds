@@ -1,4 +1,4 @@
-#Loopuleasa's Super Compact QWERTG-DFXCV
+#shauder's Super Compact QWERTG-DFXCV based on Loopuleasa's
 
 This keyboard layout is what I currently use and I'm constantly tweaking it until I get an optimal layout.
 Each file has a role, and modify what you want in it.
@@ -18,7 +18,7 @@ Some functions do not work in Source 2, like:
 - Tilde + Right Click = move directly / face that way
 
 Supported customization:
-- Alt as modifier key
+- home as modifier key
 - Space as modifier key
 - Quickcast/Normal cast mode toggle
 - Hero custom modes
@@ -49,11 +49,11 @@ dota2_functions_active.cfg
 ```
 dota2_keybinds_default.cfg
 dota2_keybinds_space_pressed.cfg
-dota2_keybinds_alt_pressed.cfg
+dota2_keybinds_home_pressed.cfg
 ```
 - These three files are full of "bind" commands which connect one key on your keyboard to a function or command.
-- Each one of them is responsible for setting the keybinds for either default mode (no ALT or SPACE key pressed), alt mode (ALT+Key) or space mode (SPACE+Key).
-- Basically, when you press ALT, the keys from dota2_keybinds_alt_pressed are active, and when SPACE is pressed, the keys from dota2_keybinds_space_pressed are active.
+- Each one of them is responsible for setting the keybinds for either default mode (no HOME or SPACE key pressed), home mode (HOME+Key) or space mode (SPACE+Key).
+- Basically, when you press HOME, the keys from dota2_keybinds_home_pressed are active, and when SPACE is pressed, the keys from dota2_keybinds_space_pressed are active.
 
 ```
 dota2_settings_game.cfg
